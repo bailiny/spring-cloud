@@ -1,3 +1,5 @@
 https://blog.csdn.net/forezp/article/details/70148833/
-sc-f-chapter1 eureka-server ·şÎñµÄ×¢²áÓë·¢ÏÖ£¨Eureka£©(Finchley°æ±¾)
-sc-f-chapter2 ·şÎñÏû·ÑÕß£¨rest+ribbon£©(Finchley°æ±¾)
+spring cloud (Finchleyç‰ˆæœ¬)
+sc-f-chapter1 eureka-server æœåŠ¡çš„æ³¨å†Œä¸å‘ç°ï¼ˆEurekaï¼‰
+sc-f-chapter2 æœåŠ¡æ¶ˆè´¹è€…ï¼ˆrest+ribbonï¼‰
+sc-f-chapter3 æœåŠ¡æ¶ˆè´¹è€…ï¼ˆfeignï¼‰
