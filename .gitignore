@@ -19,20 +19,19 @@
 *.tar.gz
 *.rar
 
+# idea
+*.iml
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /.idea
 /sc-f-chapter1/.idea
-/sc-f-chapter1/*.iml
 /sc-f-chapter1/service-hi/.mvn
 /sc-f-chapter1/eureka-server/.mvn
 /sc-f-chapter2/.idea
 /sc-f-chapter3/.idea
-/sc-f-chapter3/*.iml
 /sc-f-chapter3/service-feign/.mvn
 /sc-f-chapter2/service-ribbon/.mvn
-/sc-f-chapter2/*.iml
-/sc-f-chapter5/*.iml
 /sc-f-chapter5/.idea
 /sc-f-chapter5/service-zuul/.mvn
 /s-cf-chapter5/.idea
@@ -40,3 +39,6 @@ hs_err_pid*
 /s-cf-chapter5/service-hi/.mvn
 /s-cf-chapter5/service-ribbon/.mvn
 /s-cf-chapter5/service-zuul/.mvn
+/sc-f-chapter6/.idea
+/sc-f-chapter6/config-client/.mvn
+/sc-f-chapter6/config-server/.mvn

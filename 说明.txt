@@ -3,3 +3,5 @@ spring cloud (Finchley版本)
 sc-f-chapter1 eureka-server 服务的注册与发现（Eureka）
 sc-f-chapter2 服务消费者（rest+ribbon）
 sc-f-chapter3 服务消费者（feign）
+sc-f-chapter5 2和3加上断路器
+sc-f-chapter6 分布式配置中心
