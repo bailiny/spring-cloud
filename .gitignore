@@ -32,3 +32,11 @@ hs_err_pid*
 /sc-f-chapter3/service-feign/.mvn
 /sc-f-chapter2/service-ribbon/.mvn
 /sc-f-chapter2/*.iml
+/sc-f-chapter5/*.iml
+/sc-f-chapter5/.idea
+/sc-f-chapter5/service-zuul/.mvn
+/s-cf-chapter5/.idea
+/s-cf-chapter5/service-feign/.mvn
+/s-cf-chapter5/service-hi/.mvn
+/s-cf-chapter5/service-ribbon/.mvn
+/s-cf-chapter5/service-zuul/.mvn
